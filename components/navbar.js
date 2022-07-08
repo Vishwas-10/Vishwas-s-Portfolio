@@ -105,6 +105,7 @@ const Navbar = props => {
                 </NextLink>
                 <NextLink href="/works" passHref>
                   <MenuItem as={Link}>Works</MenuItem>
+                </NextLink>
                 <MenuItem
                   as={Link}
                   href="https://github.com/Vishwas-10/Vishwas-s-Portfolio"
