@@ -9,7 +9,7 @@
 
 Welcome to my *Presonal Portfolio*
 
-![Screenshot](https://github.com/Vishwas-10/Canteen-Order-Management-System/blob/main/preview/p1.png)
+![Screenshot](https://github.com/Vishwas-10/Vishwas-s-Portfolio/blob/main/preview/p1.png)
 
  
 ---
@@ -41,8 +41,8 @@ $PROJECT_ROOT
 ```
 ----
 # Preview
-![Screenshot](https://github.com/Vishwas-10/Canteen-Order-Management-System/blob/main/preview/p2.png)
-![Screenshot](https://github.com/Vishwas-10/Canteen-Order-Management-System/blob/main/preview/p3.png)
-![Screenshot](https://github.com/Vishwas-10/Canteen-Order-Management-System/blob/main/preview/p4.png)
+![Screenshot](https://github.com/Vishwas-10/Vishwas-s-Portfolio/blob/main/preview/p2.png)
+![Screenshot](https://github.com/Vishwas-10/Vishwas-s-Portfolio/blob/main/preview/p3.png)
+![Screenshot](https://github.com/Vishwas-10/Vishwas-s-Portfolio/blob/main/preview/p4.png)
 
 
